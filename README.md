@@ -22,5 +22,5 @@ The program allows you to select companies from a predefined top 25 list, view t
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/YOUR_USERNAME/Stock-Portfolio-Analyzer.git
+git clone https://github.com/AAK-0412/Stock-Portfolio-Analyzer.git
 cd Stock-Portfolio-Analyzer
